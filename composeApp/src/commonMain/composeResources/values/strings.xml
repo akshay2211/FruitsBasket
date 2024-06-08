@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FruitsBasket</string>
+    <string name="popular_items">Popular Items</string>
+    <string name="your_gotos">Your Go-to's</string>
+</resources>
